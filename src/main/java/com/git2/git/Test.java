@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("three add data");
 		System.out.println("two add data");
 		System.out.println("hot_fix");
+		System.out.println("克隆文件提交");
 
 	}
 }
