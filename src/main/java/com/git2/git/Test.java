@@ -8,7 +8,7 @@ public class Test {
 		System.out.println("hot_fix");
 		System.out.println("hot_fix2");
 		System.out.println("hot_fix2");
-		
+		System.out.println("克隆文件提交");
 
 	}
 }
